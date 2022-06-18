@@ -53,7 +53,7 @@ const Header = ({ metadata = {}, noBlog = false }) => {
             <li className={classes.item}>
               <a
                 className={classes.link}
-                href={`https://drive.google.com/file/d/12PO7KBpe-dK7Ho6YW8szKKV0wV2dR5kO/view?usp=sharing`}
+                href={`https://drive.google.com/file/d/1Otg2trTaLvL8nQ1WJGlTFOyfJpouy4td/view?usp=sharing`}
               >
                 Resume
               </a>

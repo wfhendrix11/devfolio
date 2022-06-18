@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/wfhendrix/`,
     // Content of the About Me section
-    about: `I'm a motivated software engineer who has experience developing web applications and services in various domains. `,
+    about: `I'm a motivated software engineer who has experience developing web applications and services in various domains. I am passionate about developing software solutions to help organizations solve difficult problems.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -70,7 +70,7 @@ module.exports = {
       {
         name: 'Programming',
         description:
-          'Java, Python, JavaScript, C#, C/C++, HTML, CSS, SQL, Bash, Assembly, Prolog, Lisp, R',
+          'Java, Python, JavaScript, C#, C/C++, HTML, CSS, SQL, Assembly, Prolog, Lisp, R',
       },
       {
         name: 'Frameworks/Libraries',
@@ -80,7 +80,7 @@ module.exports = {
       {
         name: 'Tools/Platforms',
         description:
-          'Docker, Ansible, GitLab CI/CD, Gradle, Splunk, npm, Azure, AWS, RedHat OpenShift, NUnit, XUnit, JUnit, PyUnit, Selenium, Karma, Docker, CosmosDB, Microsoft, SQL Server, PostgreSQL, MySQL',
+          'Docker, Ansible, GitLab CI/CD, Gradle, Maven, Splunk, npm, Azure, AWS, RedHat OpenShift, NUnit, XUnit, JUnit, PyUnit, Selenium, Karma, Jasmine, CosmosDB, Microsoft SQL Server, PostgreSQL, MySQL',
       },
     ],
   },
