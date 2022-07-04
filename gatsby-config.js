@@ -40,9 +40,9 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Accenture',
+        name: 'Accenture Federal Services',
         description: 'Software Engineering Senior Analyst, October 2021 - Present',
-        link: 'https://www.accenture.com/us-en',
+        link: 'https://www.accenture.com/us-en/industries/afs-index',
       },
       {
         name: 'Dark Wolf Solutions',
